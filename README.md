@@ -1,12 +1,12 @@
 ﻿# Djangochat
 #Superuser :
 Username : admin ;
-pass :23022002
+pass : 23022002
 
 
 #Account :
-Username:phatben234 ;
-pass:23022002philips
+Username: phatben234 ;
+pass: 23022002philips
 
 #How to run code?
 
