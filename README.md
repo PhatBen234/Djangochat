@@ -18,4 +18,9 @@ python manage.py migrate
 
 python manage.py runserver 
 
-pip install channels==3.0.5(if ASGI and Websocket not working)
+(if ASGI and Websocket not working)
+
+pip install channels==3.0.5
+
+python -m pip install -U 'channels[daphne]'
+
