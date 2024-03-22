@@ -1,10 +1,10 @@
 ﻿# Djangochat
-#Superuser
+#Superuser :
 Username : admin ;
 pass :23022002
 
 
-#account
+#Account :
 Username:phatben234 ;
 pass:23022002philips
 
